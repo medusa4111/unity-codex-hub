@@ -1,0 +1,14 @@
+hub/node_modules/
+hub/dist/
+logs/
+*.log
+.env
+.env.*
+!.env.example
+config.local.json
+.DS_Store
+.idea/
+.vscode/
+*.user
+*.suo
+*.pid

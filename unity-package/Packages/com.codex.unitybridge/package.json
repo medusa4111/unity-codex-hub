@@ -1,0 +1,15 @@
+{
+  "name": "com.codex.unitybridge",
+  "version": "0.2.0",
+  "displayName": "Unity Codex Bridge",
+  "description": "Editor-only local bridge for explicit Codex MCP inspection, editing, testing, captures, batch operations, and Terrain workflows.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Unity Codex Hub"
+  },
+  "keywords": [
+    "editor",
+    "codex",
+    "mcp"
+  ]
+}

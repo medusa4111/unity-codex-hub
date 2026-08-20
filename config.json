@@ -1,0 +1,7 @@
+{
+  "host": "127.0.0.1",
+  "port": 17891,
+  "requestTimeout": 15000,
+  "maxPayloadBytes": 1048576,
+  "logFile": "logs/hub.log"
+}
